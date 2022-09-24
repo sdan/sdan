@@ -1,1 +1,1 @@
-[suryad.com](https://sdan.io/s) // [@sdand](https://sdan.io/t) // surya.eth
+[suryad.com](https://surya.link/s) // [@sdand](https://surya.link/t) // surya.eth
