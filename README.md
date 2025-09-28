@@ -1,1 +1,1 @@
-[sdan.io](https://sdan.io) // [@sdand](https://surya.link/t) // surya.eth
+[sdan.io](https://sdan.io) // [@sdand](https://x.com/sdand) // [@sdan](https://substack.com/@sdan) // [@sdan](https://news.ycombinator.com/user?id=sdan) // [@sdan](https://bsky.app/profile/sdan.bsky.social) // [@sdan](https://github.com/sdan)
