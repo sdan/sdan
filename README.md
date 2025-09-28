@@ -1,1 +1,3 @@
-[sdan.io](https://sdan.io) // [@sdand](https://x.com/sdand) // [@sdan](https://substack.com/@sdan) // [@sdan](https://news.ycombinator.com/user?id=sdan) // [@sdan](https://bsky.app/profile/sdan.bsky.social) // [@sdan](https://ocf.berkeley.edu/~sdan) // [@sdan](https://github.com/sdan)
+[sdan.io](https://sdan.io) // [@sdand](https://x.com/sdand) // [@sdan](https://substack.com/@sdan) // [@sdan](https://news.ycombinator.com/user?id=sdan)
+
+[my collection of pdfs/articles](https://curius.app/surya2)
