@@ -1,3 +1,1 @@
-[sdan.io](https://sdan.io) // [@sdand](https://x.com/sdand) // [@sdan](https://substack.com/@sdan) // [@sdan](https://news.ycombinator.com/user?id=sdan)
-
-[my collection of pdfs/articles](https://curius.app/surya2)
+[sdan.io](https://sdan.io) // [@sdand](https://x.com/sdand) // [@sdan](https://substack.com/@sdan) // [@sdan](https://news.ycombinator.com/user?id=sdan) // [my collection of pdfs/articles](https://curius.app/surya2)
