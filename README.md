@@ -1,4 +1,8 @@
-[@sdan](https://substack.com/@sdan) \
-[@sdand](https://x.com/sdand) \
-[blog.sdan.io](https://blog.sdan.io)
+- **[geospot](https://geospot.sdan.io/)**: Online RL for image geolocation
+- **[r1-web](https://r1-web.sdan.io/)**: WebGPU inference for DeepSeek-R1
+- **[cuaview](https://github.com/sdan/cuaview)**: Desktop computer-use agent
+- **[vlite](https://github.com/sdan/vlite)**: Sub-50ms vector database on numpy
+- **[sudo-code](https://sudo-code.vercel.app/generate)**: Generative UI engine
+- **[yecombinator](https://yecombinator.com)**: Semantic search over Ye tweets
 
+[view all projects](https://sdan.io/projects) · [website](https://sdan.io/)
